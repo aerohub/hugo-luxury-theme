@@ -1,0 +1,22 @@
+- id: archives
+  translation: "Archivos"
+- id: categories
+  translation: "Categorías"
+- id: category
+  translation: "Categoría"
+- id: tags
+  translation: "Etiquetas"
+- id: tag
+  translation: "Etiqueta"
+- id: prev
+  translation: "Previo"
+- id: next
+  translation: "Siguiente"
+- id: prevPage
+  translation: "Previa"
+- id: nextPage
+  translation: "Siguiente"
+- id: continueReading
+  translation: "Continúa leyendo"
+- id: of       # "page of pages" in pagination
+  translation: "de"
